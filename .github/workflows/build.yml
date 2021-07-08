@@ -1,4 +1,4 @@
-name: Build Waterfall
+name: Build DragonCord
 on:
   push:
     branches:
